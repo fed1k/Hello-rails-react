@@ -3,13 +3,13 @@
 Implement a connection between a Ruby on Rails back-end and React front-end. Understand the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
 
   * Built With
-  * Ruby 3.1.2
+  * Ruby 3.0.3
   * Rails 6.1.6
 
 Author
-👤 Selase
+👤 Firdavs
 
-GitHub: @dewslyse
+GitHub: @fed1k
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
